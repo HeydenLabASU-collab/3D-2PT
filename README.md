@@ -10,6 +10,7 @@ Applications include the research presented in the following peer-reviewed resea
 - Conti Nibali, Pezzotti, Sebastiani, Galimberti, Schwaab, Heyden, Gaigeot & Havenith, J. Phys. Chem. Lett. 11, 4809-4816 (2020).
 - Fajardo & Heyden, J. Phys. Chem. B. 125, 4634-4644 (2021).
 - Waskasi, Lazaric, Heyden, Electrophoresis 42, 2060-2069 (2021).
+- Maiti & Heyden, J. Phys. Chem. B 127, 7220-7230 (2023).
 
 **Installation instructions:**
 
